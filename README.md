@@ -4,7 +4,7 @@
   <br />
 </div>
 <h3 align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/Ankit khandelwal.png?raw=true" style="max-width: 100%;" alt="I am Ankit khandeleal" /> 
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/Ankit.png?raw=true" style="max-width: 100%;" alt="I am Ankit khandeleal" /> 
 
 ## About Me
  
