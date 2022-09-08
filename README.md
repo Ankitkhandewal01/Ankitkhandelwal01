@@ -4,7 +4,7 @@
   <br />
 </div>
 <h3 align="center">
-I am Ankit KHandelwal 
+I am Ankit Khandelwal 
 
 ## About Me
  
