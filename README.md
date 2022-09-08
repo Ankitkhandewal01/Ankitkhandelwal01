@@ -12,7 +12,7 @@ I am Ankit Khandelwal
 <br>
 My Goals And Objectives Are Christal Clear. This Helps Me To Work More Faster And Efficiently.
 I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
-I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time.
+Desirous of an IT Service Management role in a challenging workplace that welcomes innovative ideas and offers growth opportunities and positive environment for accomplishing projects. .
 <br>
 
 
