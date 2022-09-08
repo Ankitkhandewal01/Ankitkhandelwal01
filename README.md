@@ -4,7 +4,7 @@
   <br />
 </div>
 <h3 align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="I am Ankit khandeleal" /> 
+  <img src="https://th.bing.com/th/id/R.3383d105890c3301d177a65f57bb9cd7?rik=z4d7pxOmKRD%2bZw&riu=http%3a%2f%2ffc05.deviantart.net%2ffs71%2ff%2f2012%2f258%2f4%2f2%2fwelcome_sign_by_onecola-d5erf9b.png&ehk=86T0cIJHcUWcgMHRVrEZy6M%2fYw8CX1XfppHaZn12G5Q%3d&risl=&pid=ImgRaw&r=0" style="max-width: 100%;" alt="I am Ankit khandeleal" /> 
 
 ## About Me
  
