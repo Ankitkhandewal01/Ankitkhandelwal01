@@ -4,7 +4,7 @@
   <br />
 </div>
 <h3 align="center">
-  I Am Ankit Khandelwal,  Founder Of Vedik Cyber Forces
+  I Am Ankit Khandelwal
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 </h3>
 
